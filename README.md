@@ -1,4 +1,4 @@
-# READIT
+# Poker Bet
 Poker Bet is a simple and fun console-based poker betting mini-game created using C#. This project was a great way to learn the basics of C# programming and object-oriented design. The game features a console-based interface, allowing players to place bets, view their cards and replace them. 
 
 ## Features
